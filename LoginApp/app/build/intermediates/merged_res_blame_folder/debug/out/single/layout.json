@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.loginapp-mergeDebugResources-27:/layout/principal.xml",
+        "source": "com.example.loginapp-main-30:/layout/principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\wolfu\\.gradle\\daemon\\8.0\\com.example.loginapp-mergeDebugResources-27:\\layout\\activity_content.xml",
+        "source": "C:\\Users\\wolfu\\.gradle\\daemon\\8.0\\com.example.loginapp-main-30:\\layout\\activity_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\wolfu\\.gradle\\daemon\\8.0\\com.example.loginapp-mergeDebugResources-27:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\wolfu\\.gradle\\daemon\\8.0\\com.example.loginapp-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wolfu\\.gradle\\daemon\\8.0\\com.example.loginapp-mergeDebugResources-27:\\layout\\principal.xml",
+        "source": "C:\\Users\\wolfu\\.gradle\\daemon\\8.0\\com.example.loginapp-main-30:\\layout\\principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\wolfu\\.gradle\\daemon\\8.0\\com.example.loginapp-mergeDebugResources-27:\\layout\\register.xml",
+        "source": "C:\\Users\\wolfu\\.gradle\\daemon\\8.0\\com.example.loginapp-main-30:\\layout\\register.xml"
+    }
+]
